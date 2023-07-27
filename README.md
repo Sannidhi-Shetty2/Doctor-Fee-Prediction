@@ -26,7 +26,6 @@ This project aims to create a web interface that allows users to predict doctor 
         
  <br>
 
-## <img src="https://github.com/Sannidhi-Shetty2/COVID-19-Analysis/assets/62684303/1f211524-e1d5-46be-a421-2662597281d7" width="48" height="48" > Quick Start
 
 ## 🏥 Doctor Fee Prediction ML Model Creation Steps 🧠
 
