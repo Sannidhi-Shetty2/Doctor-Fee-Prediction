@@ -16,7 +16,8 @@ This project aims to create a web interface that allows users to predict doctor 
 ## Findings from the Doctor Fee Prediction Project 🧪
 
 - According to the Practo dataset, Bangalore has the highest number of doctors.
-  
+ <p align="center"><img src="![image](https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/9c6f57eb-fdd5-4983-bcd3-4524743dbb2e)" width="500"</p>
+ 
 - The most common degrees among doctors are MBBS, MD, and BDS, with the highest representation in the dataset.
   
 - The dataset indicates that the three most prominent specialties among doctors are:
