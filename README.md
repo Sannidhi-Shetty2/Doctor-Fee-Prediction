@@ -16,20 +16,30 @@ This project aims to create a web interface that allows users to predict doctor 
 ## Findings from the Doctor Fee Prediction Project 🧪
 
 - According to the Practo dataset, Bangalore has the highest number of doctors.
- <p align="center"><img src="![image](https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/9c6f57eb-fdd5-4983-bcd3-4524743dbb2e)" width="500"</p>
+
+<img src="https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/714d2afb-7efb-4f54-8cd1-772a2867a882" width="700" >
+
  
 - The most common degrees among doctors are MBBS, MD, and BDS, with the highest representation in the dataset.
+  
+<img src="https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/8b16d315-a86a-4b6f-b582-0cd992cc2e54" width="800" >
+
   
 - The dataset indicates that the three most prominent specialties among doctors are:
   - Dentist
   - Gynecologist
   - Pediatrician
 
+<img src="https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/3d95ee3a-e3d4-41bb-80c5-1659f6c39208" width="800" >
+
+
         
  <br>
 
 
 ## 🏥 Doctor Fee Prediction ML Model Creation Steps 🧠
+
+<img src="https://github.com/Sannidhi-Shetty2/Doctor-Fee-Prediction/assets/62684303/b5ff0161-b645-4677-80f8-5520e5ecf3d9" width="800" >
 
 **1. Data Collection:** Gathered doctor-related information from Practo using web scraping techniques with Selenium.
 
