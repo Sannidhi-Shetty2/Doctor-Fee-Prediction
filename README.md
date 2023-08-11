@@ -4,7 +4,7 @@ This project aims to create a web interface that allows users to predict doctor 
 
 | Files/Folder| Description |
 | ------------- | ------------- |
-| **Dataset Folder** | This folder provides data state wise and district wise data in csv format |
+| **Dataset Folder** | This folder provides data state wise in csv format |
 | **Python File** | This contains the .ipynb file of the analysis for Data Extract, Data cleaning, EDA and ML Models.  |
 | **HTML File** | This contains the .html file for User Interface.  |
 
